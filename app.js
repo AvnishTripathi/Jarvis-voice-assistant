@@ -2253,11 +2253,15 @@ async function openBiometricModal(isStartup = false) {
   const userLabel = document.getElementById('bioUserName');
   if (userLabel) userLabel.textContent = enrolled ? enrolled.name : 'Not Enrolled';
 
-  const enrollBtn = document.querySelector('button[onclick="promptEnrollFace()"]');
+  const enrollBtn = document.getElementById('bioEnrollBtn') || document.querySelector('button[onclick="promptEnrollFace()"]');
   if (enrollBtn) {
-    enrollBtn.innerHTML = enrolled
-      ? '<i class="fas fa-user-edit"></i> Re-enroll Face'
-      : '<i class="fas fa-user-plus"></i> Enroll Master Face';
+    if (enrolled) {
+      enrollBtn.innerHTML = '<i class="fas fa-user-edit"></i> Re-enroll Face';
+      enrollBtn.className = 'modal-btn secondary';
+    } else {
+      enrollBtn.innerHTML = '<i class="fas fa-user-plus"></i> Enroll Master Face';
+      enrollBtn.className = 'modal-btn primary bio-enroll-highlight';
+    }
   }
 
   const badge = document.getElementById('biometricModeBadge');
@@ -2270,7 +2274,7 @@ async function openBiometricModal(isStartup = false) {
   if (msg) {
     msg.textContent = enrolled
       ? `Scanning face... Master: ${enrolled.name}. Please look into camera to unlock.`
-      : 'First-Time Setup: Click "Enroll Master Face" to register.';
+      : 'Initial Setup: Click "Enroll Master Face" to register your identity.';
   }
 
   await loadFaceModels();
@@ -2392,7 +2396,10 @@ function startFaceDetectionLoop(video, canvas) {
         const secLabel = document.getElementById('securityLabel');
         if (secLabel) secLabel.textContent = 'SECURE';
 
-        setTimeout(closeBiometricModal, 1800);
+        setTimeout(() => {
+          closeBiometricModal();
+          setTimeout(wishMe, 400);
+        }, 1800);
         return;
       }
 
@@ -2476,6 +2483,28 @@ function bypassBiometricAuth() {
   } else {
     alert("Incorrect Authorization Passcode.");
     speak("Authorization passcode rejected. Access denied.");
+  }
+}
+
+// ── Clear / Reset Enrolled Face ──────────────────────────────
+function clearEnrolledFace() {
+  try {
+    JarvisCryptoVault.secureSet('jarvis_master_face', null);
+    localStorage.removeItem('jarvis_master_face_v2');
+    localStorage.removeItem('jarvis_master_face');
+    const userLabel = document.getElementById('bioUserName');
+    if (userLabel) userLabel.textContent = 'Not Enrolled';
+    const badge = document.getElementById('biometricModeBadge');
+    if (badge) {
+      badge.textContent = 'ENROLLMENT REQUIRED';
+      badge.className = 'biometric-badge denied';
+    }
+    const secLabel = document.getElementById('securityLabel');
+    if (secLabel) secLabel.textContent = 'ENROLL';
+    speak("Master face biometric records have been cleared, Sir.");
+    recordTelemetry("Face Reset", 'System Controls', 'Biometric Vault');
+  } catch (err) {
+    console.error('Failed to clear face data:', err);
   }
 }
 
@@ -3347,6 +3376,10 @@ I am your personal AI assistant, Sir. All neural cores are fully operational and
   } else if (/\b(unlock jarvis|unlock system|bypass security)\b/.test(msg)) {
     recordTelemetry(raw, 'System Controls', 'Security Override');
     bypassBiometricAuth();
+
+  } else if (/\b(clear face|reset face|delete face|remove face|deregister face)\b/.test(msg)) {
+    recordTelemetry(raw, 'System Controls', 'Biometric Vault');
+    clearEnrolledFace();
 
     /* ── Explicit AI / Think commands — force Gemini regardless of key ── */
   } else if (/^(jarvis )?(explain|analyze|analyse|think about|what do you think|tell me about|summarize|compare|write|compose|create|generate)\b/.test(msg)) {
@@ -4854,17 +4887,24 @@ window.addEventListener('load', () => {
   initTheme();
   initBatteryTelemetry();
 
-  // ── JARVIS Core Startup — Fully Operational on Boot ──
-  isSecurityLocked = false;
+  // ── JARVIS Core Startup — Biometric Face Security Protocol ──
+  const enrolled = getEnrolledFace();
+  isSecurityLocked = true;
   const secLabel = document.getElementById('securityLabel');
-  if (secLabel) secLabel.textContent = 'SECURE';
+  if (secLabel) secLabel.textContent = enrolled ? 'LOCKED' : 'ENROLL';
 
-  setTimeout(() => {
-    const enrolled = getEnrolledFace();
-    if (enrolled) {
-      wishMe();
+  setTimeout(async () => {
+    await openBiometricModal(true);
+    if (!enrolled) {
+      speak("Biometric security protocol active. Master face enrollment is required to register your identity, Sir.");
+      setTimeout(() => {
+        const modal = document.getElementById('biometricLockModal');
+        if (modal && modal.style.display !== 'none' && !getEnrolledFace() && !isEnrollingMaster) {
+          promptEnrollFace();
+        }
+      }, 1500);
     } else {
-      speak("JARVIS systems are online and fully operational, Sir. All neural subsystems are at your service.");
+      speak(`Biometric security locked. Please look into the camera to authenticate, Master ${enrolled.name}.`);
     }
-  }, 500);
+  }, 600);
 });

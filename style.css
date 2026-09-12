@@ -1517,6 +1517,26 @@ body {
   padding-top: 14px;
 }
 
+.modal-btn.bio-enroll-highlight {
+  background: linear-gradient(135deg, rgba(0, 229, 255, 0.3), rgba(0, 150, 255, 0.45));
+  border-color: #00e5ff;
+  color: #fff;
+  box-shadow: 0 0 16px rgba(0, 229, 255, 0.65);
+  font-weight: 700;
+  animation: bioEnrollPulse 1.6s ease-in-out infinite alternate;
+}
+
+@keyframes bioEnrollPulse {
+  0% {
+    box-shadow: 0 0 8px rgba(0, 229, 255, 0.4);
+    transform: scale(1);
+  }
+  100% {
+    box-shadow: 0 0 22px rgba(0, 229, 255, 0.85);
+    transform: scale(1.03);
+  }
+}
+
 /* ─── HUD Action Launcher Card ─── */
 .hud-action-card {
   margin-top: 12px;

@@ -485,7 +485,7 @@
 
       <!-- Biometric Controls -->
       <div class="biometric-footer">
-        <button class="modal-btn secondary" onclick="promptEnrollFace()" title="Register Your Face As Master User">
+        <button id="bioEnrollBtn" class="modal-btn secondary" onclick="promptEnrollFace()" title="Register Your Face As Master User">
           <i class="fas fa-user-plus"></i> Enroll Master Face
         </button>
         <button class="modal-btn primary" onclick="bypassBiometricAuth()" title="Unlock &amp; Proceed">
@@ -498,7 +498,7 @@
     </div>
   </div>
 
-  <script src="app.js?v=20260912_v8"></script>
+  <script src="app.js?v=20260912_v9"></script>
 
   <!-- ═══ JARVIS Brain Response Panel — for structured AI output ═══ -->
   <div id="brainPanel" class="modal-overlay" style="display:none;" onclick="if(event.target===this)closeBrainPanel()">
