@@ -11,8 +11,10 @@
 
 ## 🖥️ System Interface
 
+
+
 <p align="center">
-  <img width="100%" alt="J.A.R.V.I.S Holographic Cyber HUD Interface" src="https://github.com/user-attachments/assets/54a4fc04-50b2-4818-97f9-b21df23d35aa" style="border-radius: 10px; box-shadow: 0 0 25px rgba(0, 229, 255, 0.4);" />
+ <img width="959" height="539" alt="my-jarvis png" src="https://github.com/user-attachments/assets/794f80e9-60d2-4eee-8c03-cdd9d0feacec" />
 </p>
 
 <p align="center">
