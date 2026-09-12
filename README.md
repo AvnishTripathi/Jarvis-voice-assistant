@@ -11,7 +11,7 @@
 
 ##  System Interface
 
-<img width="1919" height="876" alt="JARVIS HUD Interface" src="https://github.com/user-attachments/assets/54a4fc04-50b2-4818-97f9-b21df23d35aa" />
+<img width="1919" height="876" alt="jarvis-interface.png" src="https://github.com/user-attachments/assets/54a4fc04-50b2-4818-97f9-b21df23d35aa" />
 
 ---
 
