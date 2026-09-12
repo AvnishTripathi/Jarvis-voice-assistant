@@ -9,11 +9,19 @@
 
 ---
 
-##  System Interface
+## 🖥️ System Interface
 
-<img width="1919" height="876" alt="jarvis-interface.png" src="https://github.com/user-attachments/assets/54a4fc04-50b2-4818-97f9-b21df23d35aa" />
+<p align="center">
+  <img width="100%" alt="J.A.R.V.I.S Holographic Cyber HUD Interface" src="https://github.com/user-attachments/assets/54a4fc04-50b2-4818-97f9-b21df23d35aa" style="border-radius: 10px; box-shadow: 0 0 25px rgba(0, 229, 255, 0.4);" />
+</p>
+
+<p align="center">
+  <b>Holographic Arc Reactor HUD</b> • <b>Real-Time Neural Telemetry</b> • <b>Bilingual Voice Engine</b> • <b>Stark Security Biometrics</b>
+</p>
+
 
 ---
+
 
 ## 🌟 Core System Architecture
 
@@ -55,7 +63,15 @@
 - **Bilingual NLP**: Full support for English (`en-US`) and Hindi (`hi-IN`) voice queries, jokes, greetings, and commands.
 - **Iron Man Mode**: Always-on voice recognition with an automatic keepalive watchdog—no wake word or button click required after activation.
 
+### 4. 🛰️ Autonomous Satellite & Environmental Telemetry
+- **Precision Meteorological Engine**: Auto-detects local GPS coordinates, temperature, humidity, and weather conditions via Open-Meteo & wttr.in.
+- **Dual India & Global News Aggregator**: High-speed server-side RSS feeds combining regional headlines (*Google News India, Times of India*) and international stories (*BBC World, NYT*).
+- **Direct YouTube Video Resolver**: Server-side metadata resolution to find and play direct YouTube watch URLs via voice.
+- **Foreign Exchange Engine**: Live currency conversions backed by Open Exchange Rates and European Central Bank telemetry.
+- **Android Ready (Capacitor)**: Built-in native Android project configured for Google Play Store release.
+
 ---
+
 
 ## 🚀 Quickstart & Setup
 
