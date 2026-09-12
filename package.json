@@ -1,0 +1,32 @@
+{
+  "name": "jarvis-voice-assistant",
+  "version": "6.2.0",
+  "description": "J.A.R.V.I.S. — Production Multimodal AI Assistant (Web Speech + Face-API ML + Gemini 2.0 AI + Express/MongoDB REST API)",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js",
+    "test": "node server/test_system.js",
+    "postinstall": "cd server && npm install",
+    "build:android": "powershell -Command \"Copy-Item index.html, app.js, style.css -Destination www -Force; npx cap sync android\"",
+    "open:android": "npx cap open android"
+  },
+
+  "keywords": [
+    "jarvis",
+    "voice-assistant",
+    "ai",
+    "speech-recognition",
+    "face-recognition",
+    "gemini",
+    "express",
+    "production"
+  ],
+  "author": "JARVIS Core Systems",
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2"
+  }
+}

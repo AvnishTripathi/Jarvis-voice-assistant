@@ -1,0 +1,2226 @@
+{
+  "users": [
+    {
+      "_id": "local_usr_1788515750072_at2bv",
+      "username": "stark_tester_1788515749498",
+      "email": "tony_1788515749499@stark.ai",
+      "passwordHash": "$2a$10$WfkzrFyV0f9h20GlLY6VzuS6VreoUhpscawH2Zor1TdZcEDb1pasu",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-04T09:55:50.072Z"
+    },
+    {
+      "_id": "local_usr_1788515767705_ihhnx",
+      "username": "stark_tester_1788515767574",
+      "email": "tony_1788515767574@stark.ai",
+      "passwordHash": "$2a$10$yKydmG2iptEspbdZziWv7efN/Y4GgR0Bwqramxnf2oP1GTR63wK9q",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-04T09:56:07.705Z"
+    },
+    {
+      "_id": "local_usr_1788516096477_xea89",
+      "username": "stark_tester_1788516096348",
+      "email": "tony_1788516096348@stark.ai",
+      "passwordHash": "$2a$10$Ddpx2YFQJEBAK58PhlJkyuSv9x7or1WK15FU1kdnJNN/2nQWJ.kcS",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-04T10:01:36.477Z"
+    },
+    {
+      "_id": "local_usr_1788516448638_x7wje",
+      "username": "stark_tester_1788516448483",
+      "email": "tony_1788516448483@stark.ai",
+      "passwordHash": "$2a$10$b.jwZR9HROU3datHFdegn.B/p6BEtV15H7UzLhTiNPVajSTgal3gm",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-04T10:07:28.638Z"
+    },
+    {
+      "_id": "local_usr_1788595353342_ihbqq",
+      "username": "stark_tester_1788595352601",
+      "email": "tony_1788595352601@stark.ai",
+      "passwordHash": "$2a$10$dtGn5exn9QlHyZMd9iiKpOsJlrr6EFabDzVdH/VdRfQNVX5/kYKw.",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T08:02:33.342Z"
+    },
+    {
+      "_id": "local_usr_1788595709204_9cvfs",
+      "username": "stark_tester_1788595709057",
+      "email": "tony_1788595709057@stark.ai",
+      "passwordHash": "$2a$10$tfUkbem8lIMt5uSHRVsJRuc8P3linDpfd3cVdXmk5/o4kaDdtG.je",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T08:08:29.204Z"
+    },
+    {
+      "_id": "local_usr_1788595799980_4g904",
+      "username": "stark_tester_1788595799845",
+      "email": "tony_1788595799845@stark.ai",
+      "passwordHash": "$2a$10$3zBmTx7pBpz1DD3KM1cnheLSYyOvRGYQg3myy276uf7Iyh5IahuVi",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T08:09:59.980Z"
+    },
+    {
+      "_id": "local_usr_1788598075947_52v95",
+      "username": "stark_tester_1788598075696",
+      "email": "tony_1788598075696@stark.ai",
+      "passwordHash": "$2a$10$OccG8Rw4obp6cJTvvHF0W.u40yW77njc3bxvKN4vSEPxl2e26Vs6W",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T08:47:55.947Z"
+    },
+    {
+      "_id": "local_usr_1788598324515_535or",
+      "username": "stark_tester_1788598324323",
+      "email": "tony_1788598324323@stark.ai",
+      "passwordHash": "$2a$10$P4IgBFBIWAfKzcP.6a3RMuOb9MuTILr7Zgwy7RiQ.f34g5I/U7VI2",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T08:52:04.515Z"
+    },
+    {
+      "_id": "local_usr_1788598887927_6ma3j",
+      "username": "stark_tester_1788598887740",
+      "email": "tony_1788598887740@stark.ai",
+      "passwordHash": "$2a$10$5QLMCXTStHezCMim/gKXY.DVt9XXiTZxy4P6jHuXqKUCfuAhE8Ogu",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T09:01:27.927Z"
+    },
+    {
+      "_id": "local_usr_1788599568353_uo3nh",
+      "username": "stark_tester_1788599568060",
+      "email": "tony_1788599568060@stark.ai",
+      "passwordHash": "$2a$10$/kuNhByPAjWodow3WpMmMuq76htWn8bhWKyiiQnIABiaBYmxWV9X2",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T09:12:48.353Z"
+    },
+    {
+      "_id": "local_usr_1788599876798_md572",
+      "username": "stark_tester_1788599876689",
+      "email": "tony_1788599876689@stark.ai",
+      "passwordHash": "$2a$10$U232yPpB9A7GndhmpHc3G.z7AIgKZzJLpD.XzyLC/l4N7WXOmIkQe",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T09:17:56.798Z"
+    },
+    {
+      "_id": "local_usr_1788603270174_g6kcf",
+      "username": "stark_tester_1788603270055",
+      "email": "tony_1788603270055@stark.ai",
+      "passwordHash": "$2a$10$LlSBuelBGKBuaWgJ6LoDreTFewPpOtTSaH.7qHRDNixnnZ.Sp6A0W",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T10:14:30.174Z"
+    },
+    {
+      "_id": "local_usr_1788605208274_bvoij",
+      "username": "stark_tester_1788605208169",
+      "email": "tony_1788605208169@stark.ai",
+      "passwordHash": "$2a$10$LqMlGXk2RMpKk41z8Wk2le54oBiMO566jRkev/UReDi6QUXvkrJim",
+      "faceDescriptor": [
+        0.22,
+        -0.35,
+        0.91,
+        0.12
+      ],
+      "preferences": {
+        "language": "en-US",
+        "theme": "stark_cyan"
+      },
+      "createdAt": "2026-09-05T10:46:48.274Z"
+    }
+  ],
+  "contacts": [],
+  "reminders": [],
+  "telemetry": [
+    {
+      "_id": "local_tel_1789211329124_63k3u",
+      "userId": null,
+      "rawUtterance": "Bluetooth",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T11:08:49.124Z"
+    },
+    {
+      "_id": "local_tel_1789211311580_8ampo",
+      "userId": null,
+      "rawUtterance": "good morning",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Stark Protocol",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T11:08:31.580Z"
+    },
+    {
+      "_id": "local_tel_1789210998660_k5pa2",
+      "userId": null,
+      "rawUtterance": "sleep mode",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Standby Controller",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T11:03:18.660Z"
+    },
+    {
+      "_id": "local_tel_1789210978822_c0f5p",
+      "userId": null,
+      "rawUtterance": "sleep mode",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Standby Controller",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T11:02:58.822Z"
+    },
+    {
+      "_id": "local_tel_1789210967750_qkhn6",
+      "userId": null,
+      "rawUtterance": "switch to mark 7 theme",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Theme Controller",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T11:02:47.750Z"
+    },
+    {
+      "_id": "local_tel_1789210965996_sd08o",
+      "userId": null,
+      "rawUtterance": "switch to mark 7 theme",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Theme Controller",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T11:02:45.996Z"
+    },
+    {
+      "_id": "local_tel_1789210961825_8tsev",
+      "userId": null,
+      "rawUtterance": "switch to mark 7 theme",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Theme Controller",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T11:02:41.825Z"
+    },
+    {
+      "_id": "local_tel_1789210950061_p2jhm",
+      "userId": null,
+      "rawUtterance": "convert 100 dollars to rupees",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Frankfurter API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T11:02:30.061Z"
+    },
+    {
+      "_id": "local_tel_1789210897174_d2jmd",
+      "userId": null,
+      "rawUtterance": "good morning",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Stark Protocol",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T11:01:37.172Z"
+    },
+    {
+      "_id": "local_tel_1789210569452_wb4a6",
+      "userId": null,
+      "rawUtterance": "convert 100 dollars to rupees",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Frankfurter API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:56:09.452Z"
+    },
+    {
+      "_id": "local_tel_1789210540623_7vf6p",
+      "userId": null,
+      "rawUtterance": "\"live location weather\"",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Weather Telemetry",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:55:40.623Z"
+    },
+    {
+      "_id": "local_tel_1789210518013_sa6ku",
+      "userId": null,
+      "rawUtterance": "weather in Mumbai",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Weather Telemetry",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:55:18.013Z"
+    },
+    {
+      "_id": "local_tel_1789210500046_votts",
+      "userId": null,
+      "rawUtterance": "weather in Mumbai",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Weather Telemetry",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:55:00.046Z"
+    },
+    {
+      "_id": "local_tel_1789210497398_l5e44",
+      "userId": null,
+      "rawUtterance": "india and world news",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "News Aggregator",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:54:57.395Z"
+    },
+    {
+      "_id": "local_tel_1789210425016_9v2i5",
+      "userId": null,
+      "rawUtterance": "convert 100 dollars to rupees",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Frankfurter API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:53:45.016Z"
+    },
+    {
+      "_id": "local_tel_1789210416494_48pos",
+      "userId": null,
+      "rawUtterance": "What can you help me with?",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:53:36.494Z"
+    },
+    {
+      "_id": "local_tel_1789210395992_s2k9r",
+      "userId": null,
+      "rawUtterance": "internet speed",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Speed Benchmark",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:53:15.992Z"
+    },
+    {
+      "_id": "local_tel_1789210347967_3ns64",
+      "userId": null,
+      "rawUtterance": "weather in Mumbai",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Weather Telemetry",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:52:27.961Z"
+    },
+    {
+      "_id": "local_tel_1789210179895_8unsr",
+      "userId": null,
+      "rawUtterance": "weather in Mumbai",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Weather Telemetry",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:49:39.895Z"
+    },
+    {
+      "_id": "local_tel_1789210159495_o3qks",
+      "userId": null,
+      "rawUtterance": "weather in Mumbai",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Weather Telemetry",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:49:19.495Z"
+    },
+    {
+      "_id": "local_tel_1789210116889_gtsk3",
+      "userId": null,
+      "rawUtterance": "india and world news",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "News Aggregator",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:48:36.885Z"
+    },
+    {
+      "_id": "local_tel_1789209802353_sos41",
+      "userId": null,
+      "rawUtterance": "top news headlines",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "BBC RSS Feed",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:43:22.346Z"
+    },
+    {
+      "_id": "local_tel_1789209364588_dsqhe",
+      "userId": null,
+      "rawUtterance": "top news headlines",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "BBC RSS Feed",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:36:04.588Z"
+    },
+    {
+      "_id": "local_tel_1789209350853_by90m",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:35:50.853Z"
+    },
+    {
+      "_id": "local_tel_1789209350533_p52d0",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:35:50.533Z"
+    },
+    {
+      "_id": "local_tel_1789209350522_fxail",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:35:50.518Z"
+    },
+    {
+      "_id": "local_tel_1789209049314_83zjq",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:30:49.314Z"
+    },
+    {
+      "_id": "local_tel_1789209048987_i44jn",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:30:48.987Z"
+    },
+    {
+      "_id": "local_tel_1789209048976_4yz0t",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:30:48.964Z"
+    },
+    {
+      "_id": "local_tel_1789208773682_elsxs",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:26:13.682Z"
+    },
+    {
+      "_id": "local_tel_1789208773376_oi3wd",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T10:26:13.369Z"
+    },
+    {
+      "_id": "local_tel_1789206454162_lf9hn",
+      "userId": null,
+      "rawUtterance": "Close YouTube",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:47:34.162Z"
+    },
+    {
+      "_id": "local_tel_1789206438643_t59xl",
+      "userId": null,
+      "rawUtterance": "Close all application on YouTube which you have opened",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:47:18.643Z"
+    },
+    {
+      "_id": "local_tel_1789206420229_848wj",
+      "userId": null,
+      "rawUtterance": "Close close",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:47:00.229Z"
+    },
+    {
+      "_id": "local_tel_1789206406932_rlwbr",
+      "userId": null,
+      "rawUtterance": "Close all three YouTube applications",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:46:46.932Z"
+    },
+    {
+      "_id": "local_tel_1789206391663_a4ecf",
+      "userId": null,
+      "rawUtterance": "Close all three",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:46:31.663Z"
+    },
+    {
+      "_id": "local_tel_1789206376370_a4g9i",
+      "userId": null,
+      "rawUtterance": "Foreign",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:46:16.370Z"
+    },
+    {
+      "_id": "local_tel_1789206350117_u6wh2",
+      "userId": null,
+      "rawUtterance": "Close all",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:45:50.117Z"
+    },
+    {
+      "_id": "local_tel_1789206313595_hnwbm",
+      "userId": null,
+      "rawUtterance": "Ind",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:45:13.595Z"
+    },
+    {
+      "_id": "local_tel_1789206198581_83ozg",
+      "userId": null,
+      "rawUtterance": "Uno",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:43:18.581Z"
+    },
+    {
+      "_id": "local_tel_1789206142351_weowq",
+      "userId": null,
+      "rawUtterance": "\"Show me the news\"",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "BBC RSS Feed",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:42:22.351Z"
+    },
+    {
+      "_id": "local_tel_1789206133680_qp0q8",
+      "userId": null,
+      "rawUtterance": "\"Show me the news\"",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "BBC RSS Feed",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:42:13.680Z"
+    },
+    {
+      "_id": "local_tel_1789206094618_vj8qr",
+      "userId": null,
+      "rawUtterance": "top news headlines",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "BBC RSS Feed",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:41:34.618Z"
+    },
+    {
+      "_id": "local_tel_1789206028231_5e1nz",
+      "userId": null,
+      "rawUtterance": "Watch the video",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:40:28.231Z"
+    },
+    {
+      "_id": "local_tel_1789206019311_0dlpc",
+      "userId": null,
+      "rawUtterance": "Click objects power play on YouTube it is shown",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:40:19.311Z"
+    },
+    {
+      "_id": "local_tel_1789205997648_ko5xy",
+      "userId": null,
+      "rawUtterance": "Click the first video shown on YouTube",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:39:57.648Z"
+    },
+    {
+      "_id": "local_tel_1789205979837_rdujo",
+      "userId": null,
+      "rawUtterance": "Click the first video on YouTube",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:39:39.837Z"
+    },
+    {
+      "_id": "local_tel_1789205970103_qxnew",
+      "userId": null,
+      "rawUtterance": "Open YouTube",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:39:30.103Z"
+    },
+    {
+      "_id": "local_tel_1789205932976_av7h9",
+      "userId": null,
+      "rawUtterance": "Click the first video",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:38:52.976Z"
+    },
+    {
+      "_id": "local_tel_1789205912677_aiwbl",
+      "userId": null,
+      "rawUtterance": "Video on YouTube",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:38:32.677Z"
+    },
+    {
+      "_id": "local_tel_1789205896314_3ipdk",
+      "userId": null,
+      "rawUtterance": "Video",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:38:16.314Z"
+    },
+    {
+      "_id": "local_tel_1789205888990_w3xky",
+      "userId": null,
+      "rawUtterance": "Open search Channel on YouTube",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:38:08.990Z"
+    },
+    {
+      "_id": "local_tel_1789205872222_73biw",
+      "userId": null,
+      "rawUtterance": "Open YouTube and open the first video",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:37:52.222Z"
+    },
+    {
+      "_id": "local_tel_1789205831131_q7ftv",
+      "userId": null,
+      "rawUtterance": "Open as the channel on YouTube and open the video of live Channel",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:37:11.131Z"
+    },
+    {
+      "_id": "local_tel_1789205795140_zzkep",
+      "userId": null,
+      "rawUtterance": "Open YouTube and search Aaj News Channel",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:36:35.140Z"
+    },
+    {
+      "_id": "local_tel_1789205777846_bovnc",
+      "userId": null,
+      "rawUtterance": "Open YouTube and search Arj",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:36:17.846Z"
+    },
+    {
+      "_id": "local_tel_1789205748359_2he3x",
+      "userId": null,
+      "rawUtterance": "Open YouTube and search us the channel",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:35:48.359Z"
+    },
+    {
+      "_id": "local_tel_1789205704102_vxqz2",
+      "userId": null,
+      "rawUtterance": "top news headlines",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "BBC RSS Feed",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:35:04.102Z"
+    },
+    {
+      "_id": "local_tel_1789205675433_ph2vk",
+      "userId": null,
+      "rawUtterance": "\"Show me system performance\"",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:34:35.433Z"
+    },
+    {
+      "_id": "local_tel_1789205638521_2yvee",
+      "userId": null,
+      "rawUtterance": "\"What is my CPU and RAM usage?\"",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:33:58.521Z"
+    },
+    {
+      "_id": "local_tel_1789205607415_x4ttu",
+      "userId": null,
+      "rawUtterance": "cpu",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:33:27.414Z"
+    },
+    {
+      "_id": "local_tel_1789205590946_320ig",
+      "userId": null,
+      "rawUtterance": "\"Inspect system hardware metrics\"",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:33:10.946Z"
+    },
+    {
+      "_id": "local_tel_1789205553822_ray1m",
+      "userId": null,
+      "rawUtterance": "\"Inspect system hardware metrics\"",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:32:33.822Z"
+    },
+    {
+      "_id": "local_tel_1789205515044_lvpfy",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:31:55.044Z"
+    },
+    {
+      "_id": "local_tel_1789205515020_epv7m",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:31:55.020Z"
+    },
+    {
+      "_id": "local_tel_1789205515004_6ydfh",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:31:55.001Z"
+    },
+    {
+      "_id": "local_tel_1789204895679_dgs1d",
+      "userId": null,
+      "rawUtterance": "top news headlines",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "BBC RSS Feed",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:21:35.679Z"
+    },
+    {
+      "_id": "local_tel_1789204782155_tl3jt",
+      "userId": null,
+      "rawUtterance": "\"Inspect system hardware metrics and top memory processes\"",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:19:42.155Z"
+    },
+    {
+      "_id": "local_tel_1789204664112_ck0sz",
+      "userId": null,
+      "rawUtterance": "\"Inspect system hardware metrics and top memory processes\"",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:17:44.112Z"
+    },
+    {
+      "_id": "local_tel_1789204420749_523fg",
+      "userId": null,
+      "rawUtterance": "Explain about AI",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:13:40.749Z"
+    },
+    {
+      "_id": "local_tel_1789204400005_7ghgx",
+      "userId": null,
+      "rawUtterance": "Explain about certainly sir",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:13:20.005Z"
+    },
+    {
+      "_id": "local_tel_1789204392025_acoxk",
+      "userId": null,
+      "rawUtterance": "Explain about certainly sir",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:13:12.025Z"
+    },
+    {
+      "_id": "local_tel_1789204384384_2g8pr",
+      "userId": null,
+      "rawUtterance": "Explain",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:13:04.384Z"
+    },
+    {
+      "_id": "local_tel_1789204376913_cjqpe",
+      "userId": null,
+      "rawUtterance": "Explain about a",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:12:56.913Z"
+    },
+    {
+      "_id": "local_tel_1789204358842_qhs1f",
+      "userId": null,
+      "rawUtterance": "Explain about A",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:12:38.842Z"
+    },
+    {
+      "_id": "local_tel_1789204344602_qvhfs",
+      "userId": null,
+      "rawUtterance": "Explain",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:12:24.602Z"
+    },
+    {
+      "_id": "local_tel_1789204329909_bqjyz",
+      "userId": null,
+      "rawUtterance": "Hello how are you",
+      "classifiedIntent": "General / ChitChat",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:12:09.909Z"
+    },
+    {
+      "_id": "local_tel_1789204303667_129ij",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:11:43.667Z"
+    },
+    {
+      "_id": "local_tel_1789204303323_swktr",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:11:43.323Z"
+    },
+    {
+      "_id": "local_tel_1789204281944_sm4tw",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:11:21.944Z"
+    },
+    {
+      "_id": "local_tel_1789204281684_ke7dn",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:11:21.681Z"
+    },
+    {
+      "_id": "local_tel_1789204080666_7v7lw",
+      "userId": null,
+      "rawUtterance": "Battery telemetry requested",
+      "classifiedIntent": "System Telemetry",
+      "executionEngine": "Battery Monitor",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:08:00.666Z"
+    },
+    {
+      "_id": "local_tel_1789204066879_gatq9",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:07:46.879Z"
+    },
+    {
+      "_id": "local_tel_1789204066477_ser93",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:07:46.476Z"
+    },
+    {
+      "_id": "local_tel_1789204066461_ro5l7",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:07:46.455Z"
+    },
+    {
+      "_id": "local_tel_1789203875816_uyu7q",
+      "userId": null,
+      "rawUtterance": "Battery telemetry requested",
+      "classifiedIntent": "System Telemetry",
+      "executionEngine": "Battery Monitor",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:04:35.816Z"
+    },
+    {
+      "_id": "local_tel_1789203872658_ij8ew",
+      "userId": null,
+      "rawUtterance": "Battery telemetry requested",
+      "classifiedIntent": "System Telemetry",
+      "executionEngine": "Battery Monitor",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:04:32.658Z"
+    },
+    {
+      "_id": "local_tel_1789203726567_vqbkr",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:02:06.567Z"
+    },
+    {
+      "_id": "local_tel_1789203726177_mhdvm",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:02:06.177Z"
+    },
+    {
+      "_id": "local_tel_1789203726159_jrtdz",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T09:02:06.159Z"
+    },
+    {
+      "_id": "local_tel_1789203460494_iqrvb",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:57:40.494Z"
+    },
+    {
+      "_id": "local_tel_1789203460050_hmamd",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:57:40.050Z"
+    },
+    {
+      "_id": "local_tel_1789203460034_4f3ex",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:57:40.034Z"
+    },
+    {
+      "_id": "local_tel_1789203444493_eb44j",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:57:24.493Z"
+    },
+    {
+      "_id": "local_tel_1789203444008_mnid3",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:57:24.008Z"
+    },
+    {
+      "_id": "local_tel_1789203443993_62gju",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:57:23.993Z"
+    },
+    {
+      "_id": "local_tel_1789203412666_moqhy",
+      "userId": null,
+      "rawUtterance": "Language: English",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Bilingual Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:56:52.666Z"
+    },
+    {
+      "_id": "local_tel_1789203408512_6otea",
+      "userId": null,
+      "rawUtterance": "Language: Hindi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Bilingual Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:56:48.512Z"
+    },
+    {
+      "_id": "local_tel_1789203344875_3eqsu",
+      "userId": null,
+      "rawUtterance": "Battery telemetry requested",
+      "classifiedIntent": "System Telemetry",
+      "executionEngine": "Battery Monitor",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:55:44.875Z"
+    },
+    {
+      "_id": "local_tel_1789203248341_and8v",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:54:08.341Z"
+    },
+    {
+      "_id": "local_tel_1789203248330_acugh",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-12T08:54:08.327Z"
+    },
+    {
+      "_id": "local_tel_1788605208475_mcmog",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T10:46:48.475Z"
+    },
+    {
+      "_id": "local_tel_1788605208472_siyz1",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T10:46:48.472Z"
+    },
+    {
+      "_id": "local_tel_1788603270474_wccms",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T10:14:30.474Z"
+    },
+    {
+      "_id": "local_tel_1788603270470_bd36t",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T10:14:30.470Z"
+    },
+    {
+      "_id": "local_tel_1788599877015_iodmt",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T09:17:57.015Z"
+    },
+    {
+      "_id": "local_tel_1788599877012_gu5pt",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T09:17:57.012Z"
+    },
+    {
+      "_id": "local_tel_1788599568577_7c45x",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T09:12:48.577Z"
+    },
+    {
+      "_id": "local_tel_1788599568573_4oa4d",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T09:12:48.573Z"
+    },
+    {
+      "_id": "local_tel_1788598888199_khp79",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T09:01:28.199Z"
+    },
+    {
+      "_id": "local_tel_1788598888186_fxvjy",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T09:01:28.186Z"
+    },
+    {
+      "_id": "local_tel_1788598324775_q0yyp",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:52:04.775Z"
+    },
+    {
+      "_id": "local_tel_1788598324771_f3otx",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:52:04.771Z"
+    },
+    {
+      "_id": "local_tel_1788598076339_kkwbd",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:47:56.339Z"
+    },
+    {
+      "_id": "local_tel_1788598076332_x3o1b",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:47:56.332Z"
+    },
+    {
+      "_id": "local_tel_1788595800255_51b0e",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:10:00.255Z"
+    },
+    {
+      "_id": "local_tel_1788595800251_gerdx",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:10:00.251Z"
+    },
+    {
+      "_id": "local_tel_1788595709521_qcptw",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:08:29.521Z"
+    },
+    {
+      "_id": "local_tel_1788595709516_urvmm",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:08:29.516Z"
+    },
+    {
+      "_id": "local_tel_1788595353864_v8j5t",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:02:33.864Z"
+    },
+    {
+      "_id": "local_tel_1788595353856_mzhon",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T08:02:33.856Z"
+    },
+    {
+      "_id": "local_tel_1788594898575_lu521",
+      "userId": null,
+      "rawUtterance": "What can you help me with?",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-05T07:54:58.575Z"
+    },
+    {
+      "_id": "local_tel_1788535376057_1kpd4",
+      "userId": null,
+      "rawUtterance": "scroll up",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Screen Navigation",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:22:56.057Z"
+    },
+    {
+      "_id": "local_tel_1788535370940_3jy2m",
+      "userId": null,
+      "rawUtterance": "scroll down",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Screen Navigation",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:22:50.940Z"
+    },
+    {
+      "_id": "local_tel_1788535284368_6rzoc",
+      "userId": null,
+      "rawUtterance": "JARVIS, introduce yourself.",
+      "classifiedIntent": "General / ChitChat",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:21:24.368Z"
+    },
+    {
+      "_id": "local_tel_1788535251134_uyp34",
+      "userId": null,
+      "rawUtterance": "convert 100 dollars to rupees",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "Frankfurter API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:20:51.134Z"
+    },
+    {
+      "_id": "local_tel_1788535198222_ijrnk",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:19:58.222Z"
+    },
+    {
+      "_id": "local_tel_1788535197806_jkwiv",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:19:57.806Z"
+    },
+    {
+      "_id": "local_tel_1788534629663_vpfe2",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:10:29.663Z"
+    },
+    {
+      "_id": "local_tel_1788534629252_08nuh",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:10:29.252Z"
+    },
+    {
+      "_id": "local_tel_1788534629000_wfu3p",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:10:29.000Z"
+    },
+    {
+      "_id": "local_tel_1788534628978_wonaq",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:10:28.978Z"
+    },
+    {
+      "_id": "local_tel_1788534304279_9o8mb",
+      "userId": null,
+      "rawUtterance": "Who is Narendra Modi",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:05:04.279Z"
+    },
+    {
+      "_id": "local_tel_1788534289196_d655s",
+      "userId": null,
+      "rawUtterance": "Who is Nar",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:04:49.196Z"
+    },
+    {
+      "_id": "local_tel_1788534273427_fnpls",
+      "userId": null,
+      "rawUtterance": "who is the prime minister of india",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:04:33.427Z"
+    },
+    {
+      "_id": "local_tel_1788534235012_mm5s0",
+      "userId": null,
+      "rawUtterance": "Who is the recent prime minister of India",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:03:55.012Z"
+    },
+    {
+      "_id": "local_tel_1788534217695_s1b3f",
+      "userId": null,
+      "rawUtterance": "Who is the prime minister of India",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:03:37.695Z"
+    },
+    {
+      "_id": "local_tel_1788534200471_zvgaq",
+      "userId": null,
+      "rawUtterance": "What is 25 percent of 800",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Math Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:03:20.471Z"
+    },
+    {
+      "_id": "local_tel_1788534186579_cbsbl",
+      "userId": null,
+      "rawUtterance": "What is 25 percent of",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Math Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:03:06.579Z"
+    },
+    {
+      "_id": "local_tel_1788534133031_9ixzs",
+      "userId": null,
+      "rawUtterance": "Give me a road map to become an AI engineer",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:02:13.031Z"
+    },
+    {
+      "_id": "local_tel_1788534116836_ljl6a",
+      "userId": null,
+      "rawUtterance": "Give",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:01:56.836Z"
+    },
+    {
+      "_id": "local_tel_1788534103127_cuzku",
+      "userId": null,
+      "rawUtterance": "Give me a road map to become one research AI engineering",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:01:43.127Z"
+    },
+    {
+      "_id": "local_tel_1788534095685_5mk2p",
+      "userId": null,
+      "rawUtterance": "Begin by familiarizing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:01:35.685Z"
+    },
+    {
+      "_id": "local_tel_1788534084335_6hph5",
+      "userId": null,
+      "rawUtterance": "Me a roadmap to become an AI engineer",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:01:24.335Z"
+    },
+    {
+      "_id": "local_tel_1788534078127_3e949",
+      "userId": null,
+      "rawUtterance": "An AI engineer",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:01:18.127Z"
+    },
+    {
+      "_id": "local_tel_1788534038717_m4xbe",
+      "userId": null,
+      "rawUtterance": "Write a simple Python code and explain it",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T15:00:38.717Z"
+    },
+    {
+      "_id": "local_tel_1788533997272_9amgv",
+      "userId": null,
+      "rawUtterance": "Explain about AI in simple world",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:59:57.272Z"
+    },
+    {
+      "_id": "local_tel_1788533956075_9wrr6",
+      "userId": null,
+      "rawUtterance": "Explain about machine learning",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:59:16.075Z"
+    },
+    {
+      "_id": "local_tel_1788533943894_su4vq",
+      "userId": null,
+      "rawUtterance": "However I will provide a general structure for",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:59:03.894Z"
+    },
+    {
+      "_id": "local_tel_1788533938723_tdixm",
+      "userId": null,
+      "rawUtterance": "Sir I believe you meant to specify the topic you would like explained  Sir I believe you meant to specify the topic you would like explained",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:58:58.723Z"
+    },
+    {
+      "_id": "local_tel_1788533885497_90xxb",
+      "userId": null,
+      "rawUtterance": "Explain about",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:58:05.497Z"
+    },
+    {
+      "_id": "local_tel_1788533861072_ik1dw",
+      "userId": null,
+      "rawUtterance": "Open WhatsApp",
+      "classifiedIntent": "WhatsApp & Comms",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:57:41.072Z"
+    },
+    {
+      "_id": "local_tel_1788533830185_gqtmm",
+      "userId": null,
+      "rawUtterance": "Introduce yourself",
+      "classifiedIntent": "General / ChitChat",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:57:10.185Z"
+    },
+    {
+      "_id": "local_tel_1788533813921_zj9mb",
+      "userId": null,
+      "rawUtterance": "Hello how are you",
+      "classifiedIntent": "General / ChitChat",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:56:53.921Z"
+    },
+    {
+      "_id": "local_tel_1788533796186_pobob",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:56:36.186Z"
+    },
+    {
+      "_id": "local_tel_1788533795868_lgnxk",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:56:35.868Z"
+    },
+    {
+      "_id": "local_tel_1788532516293_8k3x0",
+      "userId": null,
+      "rawUtterance": "What is AI in simple word",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:35:16.293Z"
+    },
+    {
+      "_id": "local_tel_1788532504273_1585f",
+      "userId": null,
+      "rawUtterance": "Is AI in simple word",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:35:04.273Z"
+    },
+    {
+      "_id": "local_tel_1788532456794_2oelu",
+      "userId": null,
+      "rawUtterance": "Give me a python coding example",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:34:16.794Z"
+    },
+    {
+      "_id": "local_tel_1788532444636_rf3n8",
+      "userId": null,
+      "rawUtterance": "Give me a python coding example",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:34:04.636Z"
+    },
+    {
+      "_id": "local_tel_1788532412146_dwtze",
+      "userId": null,
+      "rawUtterance": "About artificial intelligent open in Wikipedia",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:33:32.146Z"
+    },
+    {
+      "_id": "local_tel_1788532396556_4gtay",
+      "userId": null,
+      "rawUtterance": "About artificial intelligent",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:33:16.556Z"
+    },
+    {
+      "_id": "local_tel_1788532380445_y6mbw",
+      "userId": null,
+      "rawUtterance": "About",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:33:00.445Z"
+    },
+    {
+      "_id": "local_tel_1788532357025_mbii7",
+      "userId": null,
+      "rawUtterance": "What is artificial intelligent",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:32:37.025Z"
+    },
+    {
+      "_id": "local_tel_1788532324276_82gvu",
+      "userId": null,
+      "rawUtterance": "What can you do",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:32:04.276Z"
+    },
+    {
+      "_id": "local_tel_1788532300504_vfml0",
+      "userId": null,
+      "rawUtterance": "Introduce yourself",
+      "classifiedIntent": "General / ChitChat",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:31:40.504Z"
+    },
+    {
+      "_id": "local_tel_1788532155800_qastm",
+      "userId": null,
+      "rawUtterance": "Till the name of recent prime minister of India",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:29:15.800Z"
+    },
+    {
+      "_id": "local_tel_1788532135921_1k9t0",
+      "userId": null,
+      "rawUtterance": "Who is the recent prime minister of India",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:28:55.921Z"
+    },
+    {
+      "_id": "local_tel_1788532111973_k4cdl",
+      "userId": null,
+      "rawUtterance": "Who is the prime minister of India",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:28:31.973Z"
+    },
+    {
+      "_id": "local_tel_1788532089855_cjcb0",
+      "userId": null,
+      "rawUtterance": "Prime minister of India",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:28:09.855Z"
+    },
+    {
+      "_id": "local_tel_1788532042463_tb9w3",
+      "userId": null,
+      "rawUtterance": "About machine learning",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:27:22.463Z"
+    },
+    {
+      "_id": "local_tel_1788532020575_w6zlr",
+      "userId": null,
+      "rawUtterance": "Prime Minister",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:27:00.575Z"
+    },
+    {
+      "_id": "local_tel_1788532008968_vmwej",
+      "userId": null,
+      "rawUtterance": "Open YouTube",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:26:48.968Z"
+    },
+    {
+      "_id": "local_tel_1788531995416_7fbfu",
+      "userId": null,
+      "rawUtterance": "Prime Min",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:26:35.416Z"
+    },
+    {
+      "_id": "local_tel_1788531971349_1whih",
+      "userId": null,
+      "rawUtterance": "Instead of India",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Neural Brain",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:26:11.349Z"
+    },
+    {
+      "_id": "local_tel_1788531950082_apes1",
+      "userId": null,
+      "rawUtterance": "Who is the prime minister",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:25:50.082Z"
+    },
+    {
+      "_id": "local_tel_1788531929786_ogmvg",
+      "userId": null,
+      "rawUtterance": "Who is the prime minister of India",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "Wikipedia Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:25:29.786Z"
+    },
+    {
+      "_id": "local_tel_1788531915007_iejt5",
+      "userId": null,
+      "rawUtterance": "Open GitHub",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:25:15.007Z"
+    },
+    {
+      "_id": "local_tel_1788531898272_7heyk",
+      "userId": null,
+      "rawUtterance": "Open YouTube",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:24:58.272Z"
+    },
+    {
+      "_id": "local_tel_1788531885077_shv1g",
+      "userId": null,
+      "rawUtterance": "Hello Jarvis",
+      "classifiedIntent": "General / ChitChat",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T14:24:45.077Z"
+    },
+    {
+      "_id": "local_tel_1788519719750_5k8rx",
+      "userId": null,
+      "rawUtterance": "Open Gmail",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T11:01:59.750Z"
+    },
+    {
+      "_id": "local_tel_1788519706418_hyu5z",
+      "userId": null,
+      "rawUtterance": "What is the date of today",
+      "classifiedIntent": "Knowledge & Utils",
+      "executionEngine": "System Clock",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T11:01:46.417Z"
+    },
+    {
+      "_id": "local_tel_1788519686111_erskm",
+      "userId": null,
+      "rawUtterance": "This open LinkedIn",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T11:01:26.111Z"
+    },
+    {
+      "_id": "local_tel_1788519389188_ftfjp",
+      "userId": null,
+      "rawUtterance": "Open YouTube",
+      "classifiedIntent": "Web Navigation",
+      "executionEngine": "URL Launcher",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:56:29.188Z"
+    },
+    {
+      "_id": "local_tel_1788519373758_emasm",
+      "userId": null,
+      "rawUtterance": "Hey Jarvis",
+      "classifiedIntent": "General / ChitChat",
+      "executionEngine": "Rule Engine",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:56:13.758Z"
+    },
+    {
+      "_id": "local_tel_1788518095793_ta6sj",
+      "userId": null,
+      "rawUtterance": "Language: English",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Bilingual Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:34:55.792Z"
+    },
+    {
+      "_id": "local_tel_1788518094819_6ihus",
+      "userId": null,
+      "rawUtterance": "Language: Hindi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Bilingual Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:34:54.819Z"
+    },
+    {
+      "_id": "local_tel_1788517824636_0h9rr",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:30:24.636Z"
+    },
+    {
+      "_id": "local_tel_1788517824277_7zfqu",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:30:24.276Z"
+    },
+    {
+      "_id": "local_tel_1788517823940_n5sp7",
+      "userId": null,
+      "rawUtterance": "Biometric Auth: Avnish Tripathi",
+      "classifiedIntent": "System Controls",
+      "executionEngine": "Face Recognition ML",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:30:23.934Z"
+    },
+    {
+      "_id": "local_tel_1788516448952_7m4c1",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:07:28.952Z"
+    },
+    {
+      "_id": "local_tel_1788516448945_7hy1d",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:07:28.945Z"
+    },
+    {
+      "_id": "local_tel_1788516096719_w6mfc",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:01:36.719Z"
+    },
+    {
+      "_id": "local_tel_1788516096715_53sg8",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T10:01:36.715Z"
+    },
+    {
+      "_id": "local_tel_1788515767957_om4bl",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T09:56:07.957Z"
+    },
+    {
+      "_id": "local_tel_1788515767953_v4aqp",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T09:56:07.953Z"
+    },
+    {
+      "_id": "local_tel_1788515750455_5v6h3",
+      "userId": null,
+      "rawUtterance": "Explain quantum computing",
+      "classifiedIntent": "AI & Generation",
+      "executionEngine": "Gemini 2.0 Core",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T09:55:50.455Z"
+    },
+    {
+      "_id": "local_tel_1788515750450_46eb4",
+      "userId": null,
+      "rawUtterance": "What is the weather today?",
+      "classifiedIntent": "Realtime APIs",
+      "executionEngine": "wttr.in API",
+      "isSuccess": true,
+      "responseLatencyMs": 100,
+      "timestamp": "2026-09-04T09:55:50.450Z"
+    }
+  ]
+}

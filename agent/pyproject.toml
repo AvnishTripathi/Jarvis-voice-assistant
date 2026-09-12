@@ -1,0 +1,64 @@
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[project]
+name = "jarvis-agent"
+version = "1.0.0"
+description = "J.A.R.V.I.S. Autonomous AI Agent Core — Gemini 2.5 Multi-Tool Orchestration Engine"
+authors = [{ name = "JARVIS Core Systems", email = "jarvis@stark-industries.ai" }]
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+    "google-genai>=1.0.0",
+    "pydantic>=2.8.0",
+    "pydantic-settings>=2.0.0",
+    "psutil>=5.9.0",
+    "aiosqlite>=0.20.0",
+    "duckdb>=1.0.0",
+    "rich>=13.0.0",
+    "python-dotenv>=1.0.0",
+    "httpx>=0.28.0",
+    "click>=8.1.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.23.0",
+    "ruff>=0.4.0",
+    "mypy>=1.10.0"
+]
+
+[project.scripts]
+jarvis-agent = "jarvis.main:cli"
+
+[tool.poetry]
+name = "jarvis-agent"
+version = "1.0.0"
+description = "J.A.R.V.I.S. Autonomous AI Agent Core — Gemini 2.5 Multi-Tool Orchestration Engine"
+authors = ["JARVIS Core Systems <jarvis@stark-industries.ai>"]
+packages = [{ include = "jarvis" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+google-genai = ">=1.0.0"
+pydantic = ">=2.8.0"
+pydantic-settings = ">=2.0.0"
+psutil = ">=5.9.0"
+aiosqlite = ">=0.20.0"
+duckdb = ">=1.0.0"
+rich = ">=13.0.0"
+python-dotenv = ">=1.0.0"
+httpx = ">=0.28.0"
+click = ">=8.1.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = ">=8.0.0"
+pytest-asyncio = ">=0.23.0"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+

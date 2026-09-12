@@ -1,0 +1,51 @@
+"""Core Engine and Utilities for J.A.R.V.I.S."""
+
+from core.engine import (
+    JarvisEngine,
+    run_shell,
+    inspect_telemetry,
+    capture_screen,
+    capture_camera,
+    log_event,
+    audit_logger,
+    AutonomousRuntimeEngine,
+    RuntimeConfig,
+    RuntimeTurnResult,
+    ToolExecutionResult,
+    RotatingJSONLLogger,
+    ToolDispatcher,
+    PRODUCTION_SYSTEM_PROMPT,
+    TOOL_DECLARATIONS,
+)
+from core.tools import (
+    execute_shell_command,
+    get_telemetry,
+    CommandResult,
+    SystemStats,
+    capture_active_display,
+    capture_webcam_frame,
+)
+
+__all__ = [
+    "JarvisEngine",
+    "run_shell",
+    "inspect_telemetry",
+    "capture_screen",
+    "capture_camera",
+    "log_event",
+    "audit_logger",
+    "AutonomousRuntimeEngine",
+    "RuntimeConfig",
+    "RuntimeTurnResult",
+    "ToolExecutionResult",
+    "RotatingJSONLLogger",
+    "ToolDispatcher",
+    "PRODUCTION_SYSTEM_PROMPT",
+    "TOOL_DECLARATIONS",
+    "execute_shell_command",
+    "get_telemetry",
+    "CommandResult",
+    "SystemStats",
+    "capture_active_display",
+    "capture_webcam_frame",
+]
